@@ -31,11 +31,11 @@ Display 5 different images in carousel
 Carousel3d(
           center: _center,
           items: [
-            Image.assets('assets/img_1.png'),
-                      Image.asset('assets/img_2.png'),
-                      Image.asset('assets/img_3.png'),
-                      Image.asset('assets/img_4.png'),
-                      Image.asset('assets/img_5.png'),
+                    Image.asset('assets/img_1.png'),
+                    Image.asset('assets/img_2.png'),
+                    Image.asset('assets/img_3.png'),
+                    Image.asset('assets/img_4.png'),
+                    Image.asset('assets/img_5.png'),
           ],
         )
 ```
