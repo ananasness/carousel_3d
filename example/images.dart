@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:carousel_3d/carousel_3d.dart';
+import 'package:carousel_widget_3d/carousel_widget_3d.dart';
 
 void main() {
   runApp(const MyApp());

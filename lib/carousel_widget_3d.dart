@@ -1,4 +1,4 @@
-library carousel_3d;
+library carousel_widget_3d;
 
 import 'package:flutter/material.dart';
 

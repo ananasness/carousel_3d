@@ -1,16 +1,16 @@
 # 3D carousel
 
-The package provides a widget that displays user data as 3d carousel
+The package provides a widget that displays user data as 3 dimensional carousel
 ![](https://github.com/ananasness/carousel_3d/blob/master/images/cards.gif)
 
 ## Getting started
 
 1. Add package to pubspec.yaml
-```carousel_3d: 1.0.0```
+```carousel_widget_3d: 1.0.0```
 
 2. Import it to file where it is going to be used
 
-3. Create carousel_3d and provide required attributes
+3. Create Carousel3d widget and provide required attributes
 
 ```dart
 Carousel3d(
