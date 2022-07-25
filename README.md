@@ -42,11 +42,11 @@ Carousel3d(
 
 Result
 
-![](https://github.com/ananasness/carousel_3d/blob/master/images/images.gif)
+![](https://github.com/ananasness/carousel_3d/blob/master/images/images.gif?width=70)
 
 ## Additional information
- Parameters:
+ Parameters:<br>
 `center` - index of the current central element <br>
 `items` - widgets to display in carousel<br>
 `duration` - duration of carousel animations<br>
-'displayRadius' - how much items displayed on each side from central item<br>
+`displayRadius` - how much items displayed on each side from central item<br>
